@@ -1,0 +1,40 @@
+body {
+  background-color: #60a9ff;
+  /* display: block; */
+  /* justify-content: center;
+  align-items: center; */
+  /* min-height: 100vh; */
+}
+
+
+h1 {
+    color:blue;
+
+}
+
+.panel {
+  background-color: white;
+  border-radius: 10px;
+  padding: 15px 25px;
+  width: 90%;
+  margin-top: 20%;
+  margin-left: 5%;
+  /* max-width: 960px; */
+  display: block;
+  /* justify-content: center;
+  align-items: center; */
+  /* flex-direction: column; */
+  /* text-align: center; */
+  /* text-transform: uppercase; */
+}
+
+.navbar-brand {
+    
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 1.5em 
+}
+
+#navbar-color {
+    color:blue;
+}
+
