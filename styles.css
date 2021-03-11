@@ -38,3 +38,15 @@ h1 {
     color:blue;
 }
 
+#nav-right {
+    justify-content: flex-end;
+    padding-inline: 30px ;
+}
+
+#btn-center {
+    justify-content: flex-end;
+}
+
+#carousel-size {
+    /* height: 5%; */
+}
